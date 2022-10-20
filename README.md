@@ -3,10 +3,10 @@
 ### I am a passionate programmer 
  
 Below are some things I spent my time on:
-- 💻 I'm an Android Developer
-- 🌱 I’m currently learning Jetpack Compose development and Node Js
+- 💻 I'm an Android Developer (Both XML based and Jetpack Compose)
+- 🌱 I’m currently learning Node Js to expand my field toward Backend.
 
-<!--- 📫 Contact me: **hrithiksharma24092000@gmail.com**-->
+<!--- 📫 Contact me: **kabboandreigns@gmail.com**-->
 <h3 align="left">Connect with me:</h3>
 <p>
 <a href="mailto:kabboandreigns@gmail.com" target="blank">
