@@ -3,8 +3,8 @@
 ### I am a passionate programmer 
  
 Below are some things I spent my time on:
-- 💻 I'm an Android Developer (Both XML based and Jetpack Compose)
-- 🌱 I’m currently learning Node Js to expand my field toward Backend.
+- 💻 I'm a Flutter and Android Native Developer (Both XML based and Jetpack Compose)
+- 🌱 I’m currently learning Node Js to expand my field toward the Backend.
 
 <!--- 📫 Contact me: **kabboandreigns@gmail.com**-->
 <h3 align="left">Connect with me:</h3>
@@ -61,11 +61,10 @@ Below are some things I spent my time on:
 <a href="https://en.wikipedia.org/wiki/Terminal" target="_blank"> <img src="https://cdn.iconscout.com/icon/premium/png-64-thumb/terminal-2229455-1858303.png" alt="terminal" width="40" height="40"/></a> -->
 
 
-
 ## 📈 Stats
 <div align="center">
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafiskabbo&theme=midnight-purple&hide=css,html,c,Jupyter Notebook" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafiskabbo&theme=midnight-purple&hide=css,html,c" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -73,13 +72,8 @@ Below are some things I spent my time on:
 </a>
 </div> <br />
 <p>
- <i>NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on Github.</i>
+ <i>NOTE: Top languages do not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on Github.</i>
 </p>
 <p align="center">  
      <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=nafiskabbo.visitor-badge"> 
 </p>
-
-
-
-<!--Bottom Banner -->
-<img src="https://raw.githubusercontent.com/nafiskabbo/CDN/main/2021/09/Bottom%20Banner.svg" alt=""><br />
