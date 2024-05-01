@@ -25,6 +25,10 @@ Below are some things I spent my time on:
  <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"/>
  </a>
  &nbsp;
+ <a href="https://flutter.dev" target="_blank">
+ <img src="https://img.icons8.com/color/2x/flutter.png" alt="flutter" width="40" height="40"/>
+ </a>
+ &nbsp;
 <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank">
  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="android" width="40" height="40"/>
 </a> 
