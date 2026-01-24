@@ -4,7 +4,7 @@
 
 I thrive on building innovative solutions and enhancing user experiences through mobile development.
 
-- 💻 <b>Mobile App Developer</b> – Experienced in Flutter for cross-platform development and <b>Android Native</b> (XML-based UI & <b>Jetpack Compose</b>) for modern Android apps.
+- 💻 <b>Mobile App Developer</b> – Experienced in Flutter for cross-platform development, <b>Android Native</b> (XML-based UI & <b>Jetpack Compose</b>) for modern Android apps and <b>Swift</b> for Native <b>iOS</b>.
 - 🌱 Expanding into <b>Backend Development</b> – Currently learning Node.js to broaden my expertise and build full-stack applications.
 
 <!--- 📫 Contact me: **kabboandreigns@gmail.com**-->
@@ -86,11 +86,11 @@ I thrive on building innovative solutions and enhancing user experiences through
 
 <div align="center">
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafiskabbo&theme=midnight-purple&hide=css,html,c" />
+  <img align="left" src="https://github-readme-stats-five-roan-86.vercel.app/api/top-langs/?username=nafiskabbo&theme=midnight-purple&hide=css,html,c" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right|center" src="https://github-readme-stats.vercel.app/api?username=nafiskabbo&count_private=true&show_icons=true&theme=midnight-purple&line_height=27&v=5" alt="Kabbo's github stats" />
+  <img align="right|center" src="https://github-readme-stats-five-roan-86.vercel.app/api?username=nafiskabbo&count_private=true&show_icons=true&theme=midnight-purple&line_height=27&v=5" alt="Kabbo's github stats" />
 </a>
 </div> <br />
 <p>
