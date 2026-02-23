@@ -44,6 +44,16 @@ I thrive on building innovative solutions and enhancing user experiences through
     <img src="https://icon.icepanel.io/Technology/svg/Kotlin.svg" alt="Kotlin" style="height: 36px; width: auto;"/>
   </a>
   &nbsp;
+  <!-- SwiftUI -->
+  <a href="https://developer.android.com/compose" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=_BTyk4vBumjx&format=png&color=000000" alt="SwiftUI" style="height: 36px; width: auto;"/>
+  </a>
+  &nbsp; 
+ <!-- Swift -->
+  <a href="https://kotlinlang.org/" target="_blank">
+    <img src="https://www.svgrepo.com/show/374112/swift.svg" alt="Swift" style="height: 36px; width: auto;"/>
+  </a>
+  &nbsp;
   <!-- Java -->
   <a href="https://www.java.com/" target="_blank">
     <img src="https://icon.icepanel.io/Technology/svg/Java.svg" alt="Java" style="height: 36px; width: auto;"/>
