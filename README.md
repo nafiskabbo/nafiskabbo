@@ -25,8 +25,8 @@ I thrive on building innovative solutions and enhancing user experiences through
 
 <p align="left">
   <!-- Flutter -->
-  <a href="https://flutter.dev" target="_blank">
-    <img src="https://storage.googleapis.com/cms-storage-bucket/4fd5520fe28ebf839174.svg" alt="Flutter" style="height: 32px; width: auto;"/>
+  <a href="https://flutter.dev">
+    <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
   </a>
   &nbsp;
   <!-- Android -->
