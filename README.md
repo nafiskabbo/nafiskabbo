@@ -5,6 +5,7 @@
 I thrive on building innovative solutions and enhancing user experiences through mobile development.
 
 - 💻 <b>Mobile App Developer</b> – Experienced in Flutter for cross-platform development, <b>Android Native</b> (XML-based UI & <b>Jetpack Compose</b>) for modern Android apps and <b>Swift</b> for Native <b>iOS</b>.
+- 🌱 Learning Kotlin Multiplatform for native cross-platform experience.
 - 🌱 Expanding into <b>Backend Development</b> – Currently learning Node.js to broaden my expertise and build full-stack applications.
 
 <!--- 📫 Contact me: **kabboandreigns@gmail.com**-->
