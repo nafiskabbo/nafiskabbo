@@ -96,13 +96,13 @@ I thrive on building innovative solutions and enhancing user experiences through
 ## 📈 Stats
 
 <p align="center">
-  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=nafiskabbo&langs_count=5&theme=catppuccin_mocha">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=nafiskabbo&langs_count=5&theme=catppuccin_mocha" />
+  <a href="https://github-stats-extended-frontend-pied.vercel.app/api/top-langs?username=nafiskabbo&langs_count=5&theme=catppuccin_mocha">
+    <img src="https://github-stats-extended-frontend-pied.vercel.app/api/top-langs?username=nafiskabbo&langs_count=5&theme=catppuccin_mocha" />
   </a>
   &nbsp;&nbsp;
  
-  <a href="https://github-stats-extended.vercel.app/api?username=nafiskabbo&show_icons=true&theme=catppuccin_mocha">
-    <img src="https://github-stats-extended.vercel.app/api?username=nafiskabbo&show_icons=true&theme=catppuccin_mocha" />
+  <a href="https://github-stats-extended-frontend-pied.vercel.app/api?username=nafiskabbo&show_icons=true&theme=catppuccin_mocha">
+    <img src="https://github-stats-extended-frontend-pied.vercel.app/api?username=nafiskabbo&show_icons=true&theme=catppuccin_mocha" />
   </a>
 </p>
 
