@@ -95,18 +95,21 @@ I thrive on building innovative solutions and enhancing user experiences through
 
 ## 📈 Stats
 
-<div align="center">
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats-five-roan-86.vercel.app/api/top-langs/?username=nafiskabbo&theme=midnight-purple&hide=css,html,c" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right|center" src="https://github-readme-stats-five-roan-86.vercel.app/api?username=nafiskabbo&count_private=true&show_icons=true&theme=midnight-purple&line_height=27&v=5" alt="Kabbo's github stats" />
-</a>
-</div> <br />
-<p>
- <i>NOTE: Top languages do not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on Github.</i>
+<p align="center">
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=nafiskabbo&langs_count=5&theme=catppuccin_mocha">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=nafiskabbo&langs_count=5&theme=catppuccin_mocha" />
+  </a>
+  &nbsp;&nbsp;
+ 
+  <a href="https://github-stats-extended.vercel.app/api?username=nafiskabbo&show_icons=true&theme=catppuccin_mocha">
+    <img src="https://github-stats-extended.vercel.app/api?username=nafiskabbo&show_icons=true&theme=catppuccin_mocha" />
+  </a>
 </p>
-<p align="center">  
-     <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=nafiskabbo.visitor-badge"> 
+
+<p align="center">
+  <i>NOTE: Top languages do not indicate my skill level or something like that; it's simply a GitHub metric showing which languages I have the most code in.</i>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nafiskabbo.visitor-badge" />
 </p>
